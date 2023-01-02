@@ -10,7 +10,7 @@ main{
   .container{
     display: flex;
     flex-direction: column;
-    background: rgb(255,198,0);
+    background: rgb(173, 123, 153);
     width: 400px;
     height: 600px;
     align-items: center;
@@ -56,7 +56,7 @@ main{
     height: 40px;
     font: bold 1.2rem serif;
     background: #000;
-    color: rgb(255,198,0);
+    color: rgb(187, 181, 159);
     outline: none;
     border-radius: 5px;
     cursor: pointer;
